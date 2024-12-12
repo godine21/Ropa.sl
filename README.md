@@ -23,5 +23,5 @@ no hay codigo todavia
 | 50€ | sudaderas |
 | 60€ | pantalones |
 
-![](perrito.jpeg) 
+![Aqui deberia estar la imagen](perrito.jpeg) 
 [Pagina de referencia para mi proyecto](https://www.naturitas.es)
