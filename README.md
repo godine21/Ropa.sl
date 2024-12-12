@@ -24,4 +24,4 @@ no hay codigo todavia
 | 60€ | pantalones |
 
 ![](perrito.jpeg) 
-[](https://www.naturitas.es)
+[Pagina de referencia para mi proyecto](https://www.naturitas.es)
