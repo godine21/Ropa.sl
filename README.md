@@ -1,24 +1,27 @@
 # Ropa.sl
 
-## Subtitulo
+## Creador:José
 
-### cabera
+**El proyecto será una pagina web de ropa, contendra los siguientes elementos:**
 
-Esto es un **texto en negrita**
-Esto es un texto en *cursiva*
-
-- Elemento1
-- Elemento2
-  - subelemento
+- Carrito de la compra
+- Registrarse
+- Iniciar sesion
+- Productos
+  - Camisetas
+  - Pantalones
+  - Sudaderas
 
 ```
 if (codigo){
+no hay codigo todavia
 
 }
 ```  
-| Cabecera1 | cabecera2 |
+| precios | productos |
 |-|-|
-| elemento1 | elemento2 |
-| elemento1 | elemento2 |
+| 50€ | sudaderas |
+| 60€ | pantalones |
 
 ![](perrito.jpeg) 
+[](https://www.naturitas.es)
